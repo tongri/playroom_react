@@ -1,0 +1,19 @@
+// Authentication
+
+export const USER_SUCCESS = 'USER_SUCCESS'
+export const USER_LOADING = 'USER_LOADING'
+export const USER_FAILED = 'USER_FAILED'
+export const USER_LOGOUT = 'USER_LOGOUT'
+export const USER_VERIFIED = 'USER_VERIFIED'
+
+
+// Orders
+export const ORDER_SUCCESS = 'ORDER_SUCCESS'
+export const ORDER_LOADING = 'ORDERS_LOADING'
+export const ORDER_FAILED = 'ORDER_FAILED'
+
+
+// Places
+export const PLAY_DEVICES_SUCCESS = 'PLAY_DEVICES_SUCCESS'
+export const PLAY_DEVICES_LOADING = 'PLAY_DEVICES_LOADING'
+export const PLAY_DEVICES_FAILED = 'PLAY_DEVICES_FAILED'
